@@ -8,7 +8,3 @@
 * Parar Contêineres: Encerre contêineres em execução com facilidade.
 * Remover Contêineres: Delete contêineres que não são mais necessários.
 * Reiniciar Contêineres: Reinicie rapidamente contêineres específicos.
-
-Pré-Requisitos
-* Docker instalado
-* Acesso ao terminal com permissões para executar comandos Docker.
